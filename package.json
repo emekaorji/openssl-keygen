@@ -52,14 +52,14 @@
 			},
 			{
 				"command": "OpenSSLKeygen.generateKeyInEditor",
-				"title": "Generate OpenSSL secret"
+				"title": "Paste new secret key"
 			}
 		],
 		"menus": {
 			"editor/context": [
 				{
 					"command": "OpenSSLKeygen.generateKeyInEditor",
-					"group": "9_cutcopypaste@1"
+					"group": "9_cutcopypaste@4"
 				}
 			]
 		}
