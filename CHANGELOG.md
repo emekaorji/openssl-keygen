@@ -1,3 +1,5 @@
+## v0.1.1 (2024-02-18)
+
 ## v1.0.6 (2023-12-04)
 
 [compare changes](https://github.com/emekaorji/speed-test/compare/v1.0.5...v1.0.6 '2023-12-04')
