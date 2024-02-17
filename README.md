@@ -1,6 +1,6 @@
 # OpenSSL Keygen VSCode Extension
 
-<div style="border-radius: 1em; overflow: hidden;"><img alt="OpenSSL Keygen Logo" src="./assets/logo2.png" /></div>
+<div style="border-radius: 1em; overflow: hidden;"><img alt="OpenSSL Keygen Logo" src="https://res.cloudinary.com/coderabbi/image/upload/v1708210115/openssl-keygen/txhqpoeneyuaxwb50jyd.png" /></div>
 
 This VSCode extension allow you to generate a standard openssl secure key on the fly. Can be useful when in need of a cryptographic key or a unique secret for your application.
 
@@ -9,7 +9,7 @@ This VSCode extension allow you to generate a standard openssl secure key on the
 - Generate a unique/secure secret key for your application
 - Generate unique secret key from inside an active editor menu options
 
-<div style="border-radius: 1em; overflow: hidden;"><img alt="OpenSSL Keygen Demo" src="./assets/demo.gif" /></div>
+<div style="border-radius: 1em; overflow: hidden;"><img alt="OpenSSL Keygen Demo" src="https://res.cloudinary.com/coderabbi/image/upload/v1708210119/openssl-keygen/m9u1stprkzfizahmbhat.gif" /></div>
 
 ### Installation 📝
 
@@ -24,15 +24,15 @@ This VSCode extension allow you to generate a standard openssl secure key on the
 1. Open a text editor.
 1. Toggle the command palette using the shortcut `Cmd+Shift+P` or `Ctrl+Shift+P` on windows and search for `Generate an OpenSSL secret key`.
 1. A unique key would be generated and pasted in the active editor.
-   <div style="border-radius: 1em; overflow: hidden;"><img alt="Via Command Palette" src="./assets/command-palette.png" /></div>
+   <div style="border-radius: 1em; overflow: hidden;"><img alt="Via Command Palette" src="https://res.cloudinary.com/coderabbi/image/upload/v1708210115/openssl-keygen/r2yydy08zvi2t2vcwaq4.png" /></div>
 1. If there is no active editor, a notificaton box is created with the option to copy the secret key.
-   <div style="border-radius: 1em; overflow: hidden;"><img alt="Via Command Palette" src="./assets/copy-notification.png" /></div>
+   <div style="border-radius: 1em; overflow: hidden;"><img alt="Copy Key from Notification" src="https://res.cloudinary.com/coderabbi/image/upload/v1708210115/openssl-keygen/lijakxtzgnbkcl9p3tey.png" /></div>
 
 OR
 
 1. Open a text editor.
 1. Right Click and select `Generate OpenSSL secret` in the dropdown menu.
-   <div style="border-radius: 1em; overflow: hidden;"><img alt="Via Editor Context Menu" src="./assets/editor-context.png" /></div>
+   <div style="border-radius: 1em; overflow: hidden;"><img alt="Via Editor Context Menu" src="https://res.cloudinary.com/coderabbi/image/upload/v1708210116/openssl-keygen/br2gest2nvzweqownbv5.png" /></div>
 
 ### Extension Deactivation 😔
 
