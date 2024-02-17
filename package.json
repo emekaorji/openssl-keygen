@@ -86,7 +86,7 @@
 		"pre-commit": "npx lint-staged"
 	},
 	"scripts": {
-		"vscode:prepublish": "pnpm esbuild:base --minify",
+		"vscode:prepublish": "npx pnpm esbuild:base --minify",
 		"preinstall": "npx only-allow pnpm",
 		"postinstall": "stale-dep -u",
 		"prepare": "simple-git-hooks",
