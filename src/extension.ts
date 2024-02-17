@@ -29,7 +29,7 @@ export function activate(context: vscode.ExtensionContext) {
 
 				// Inserts the command output at the cursor position
 				editor.edit((editBuilder) => {
-					editBuilder.insert(position, stdout);
+					editBuilder.insert(position, stdout.trim());
 				});
 			});
 		} catch (error) {
