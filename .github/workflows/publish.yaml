@@ -23,9 +23,9 @@ jobs:
         run: npx pnpm i
 
       - name: Package Extension
-        run: vsce package --no-dependencies
+        run: npx vsce package --no-dependencies
 
       - name: Publish Packaged Extension
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
-        run: vsce publish -p $VSCE_TOKEN --no-dependencies
+        run: npx vsce publish -p $VSCE_TOKEN --no-dependencies
