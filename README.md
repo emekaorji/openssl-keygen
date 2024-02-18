@@ -13,11 +13,18 @@ This VSCode extension allow you to generate a standard openssl secure key on the
 
 ### Installation 📝
 
+#### Via in-app extension view
+
 1. Launch Visual Studio Code.
 1. Go to the Extensions view by clicking on the square icon on the left sidebar or by using the shortcut `Cmd+Shift+X` or `Ctrl+Shift+X` on windows.
 1. Search for "OpenSSL Keygen" in the Extensions marketplace.
 1. Click the "Install" button next to the "OpenSSL Keygen" extension.
 1. Once installed, you can find the extension in the command palette.
+
+#### Via online VSCode marketplace
+
+1. Head over to https://marketplace.visualstudio.com/items?itemName=coderabbi.openssl-keygen and click the "Install" button.
+1. Follow step 4 and 5 above
 
 ### Usage 🛠️
 
