@@ -30,7 +30,7 @@ This VSCode extension allow you to generate a standard openssl secure key on the
 
 1. Open a text editor.
 1. Toggle the command palette using the shortcut `Cmd+Shift+P` or `Ctrl+Shift+P` on windows and search for `Generate an OpenSSL secret key`.
-1. A unique key would be generated and pasted in the active editor.
+1. After selecting the command, a unique key would be generated and pasted in the active editor.
    <div style="border-radius: 1em; overflow: hidden;"><img alt="Via Command Palette" src="https://res.cloudinary.com/coderabbi/image/upload/v1708210115/openssl-keygen/r2yydy08zvi2t2vcwaq4.png" /></div>
 1. If there is no active editor, a notificaton box is created with the option to copy the secret key.
    <div style="border-radius: 1em; overflow: hidden;"><img alt="Copy Key from Notification" src="https://res.cloudinary.com/coderabbi/image/upload/v1708210115/openssl-keygen/lijakxtzgnbkcl9p3tey.png" /></div>
